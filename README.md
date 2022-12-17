@@ -8,7 +8,7 @@ I cleaned and analyzed the street tree list dataset to explore the trees in San 
 
 ## About the dataset
 
-**Name:** [Street Tree List]('https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq') from DataSF.com portal  
+**Name:** [Street Tree List](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq) from DataSF.com portal  
 **Source:** San Francisco Department of Public Works  
 **Data Dictionary:** See [here](https://data.sfgov.org/api/views/tkzw-k3nq/files/biK1RHNRcrlnB42VCsuvdib3tybKjazIH4kuDcrOczw?download=true&filename=DPW_DataDictionary_Street-Tree-List.pdf)  
 **Time:** Downloaded on Nov. 6, 2022. Dataset created in Sep. 24 2012 and updated daily.  
